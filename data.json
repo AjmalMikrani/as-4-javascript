@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "name": "Mountain Bike",
+      "brand": "Trek",
+      "price": "$450",
+      "image": "https://en.wikipedia.org/wiki/Mountain_biking#/media/File:Alexandra_Engen_2012_London_Olympics_002.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Road Bike",
+      "brand": "Specialized",
+      "price": "$800",
+      "image": "https://en.wikipedia.org/wiki/Road_bicycle_racing#/media/File:Tour_of_gippsland_final_stage.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hybrid Bike",
+      "brand": "Giant",
+      "price": "$600",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Giant_Sedona.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Electric Bike",
+      "brand": "Rad Power Bikes",
+      "price": "$1,200",
+      "image": "https://en.wikipedia.org/wiki/Electric_bicycle#/media/File:Electro_bike,_Brno.jpg"
+    },
+    {
+      "id": 5,
+      "name": "BMX Bike",
+      "brand": "Mongoose",
+      "price": "$350",
+      "image": "https://en.wikipedia.org/wiki/BMX_bike#/media/File:Chase-ACT-Carbon-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fat Tire Bike",
+      "brand": "Salsa",
+      "price": "$950",
+      "image": "https://en.wikipedia.org/wiki/Fatbike#/media/File:15-07-19-Fahrradcorso-RalfR-DSCF6576_1.jpg"
+    }
+  ]
+  
+  
